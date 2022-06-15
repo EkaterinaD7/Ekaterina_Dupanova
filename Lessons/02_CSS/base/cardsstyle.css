@@ -1,0 +1,50 @@
+.card1 {
+
+    width: 140px;
+    height: 197px;
+    background-image: url(cards.png);
+    float: left;
+    overflow: hidden;
+    background-position: 0px 1790px;
+}
+
+.card2 {
+
+    width: 140px;
+    height: 197px;
+    background-image: url(cards.png);
+    float: left;
+    overflow: hidden;
+    background-position: 287px 795px;
+}
+
+.card3 {
+
+    width: 140px;
+    height: 197px;
+    background-image: url(cards.png);
+    float: left;
+    overflow: hidden;
+    background-position: 574px 1193px;
+}
+
+.card4 {
+
+    width: 140px;
+    height: 197px;
+    background-image: url(cards.png);
+    float: left;
+    overflow: hidden;
+    background-position: 855px 397px;
+}
+
+.card5 {
+
+    width: 140px;
+    height: 197px;
+    background-image: url(cards.png);
+    float: left;
+    overflow: hidden;
+    background-position: 1140px 197px;
+}
+
